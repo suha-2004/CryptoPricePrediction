@@ -1,9 +1,7 @@
 pandas
 numpy
-matplotlib
 scikit-learn
 tensorflow==2.21.0
 streamlit
 plotly
 requests
-yfinance
